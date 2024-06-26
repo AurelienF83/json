@@ -822,29 +822,5 @@
     "name": "Biomasse de Rennes",
     "ps": "PS NOYAL",
     "status": "\u00c0 venir"
-  },
-  {
-    "date": "25/09/2024",
-    "lat": 48.0796443994309,
-    "lng": -2.670983815852784,
-    "name": "Biomasse de Rennes",
-    "ps": "PS Test",
-    "status": "\u00c0 venir"
-  },
-  {
-    "date": "26/09/2024",
-    "lat": 48.0796443994309,
-    "lng": -3.670983815852784,
-    "name": "Biomasse de Rennes",
-    "ps": "PS Test1",
-    "status": "\u00c0 venir"
-  },
-  {
-    "date": "27/09/2024",
-    "lat": 48.0796443994309,
-    "lng": -4.670983815852784,
-    "name": "Biomasse de Rennes",
-    "ps": "PS Test2",
-    "status": "\u00c0 venir"
   }
 ]
