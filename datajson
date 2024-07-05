@@ -661,7 +661,7 @@
     "lng": 0.372232,
     "name": "Parc Eolien de Lavernat",
     "ps": "PS CHATEAU-DU-LOIR",
-    "status": "\u00c0 venir"
+    "status": "Report\u00e9e"
   },
   {
     "date": "04/07/2024",
@@ -744,14 +744,6 @@
     "status": "\u00c0 venir"
   },
   {
-    "date": "01/08/2024",
-    "lat": 43.90016,
-    "lng": 4.86628,
-    "name": "Parc Photovolta\u00efque les Iscles",
-    "ps": "PS CHATEAURENARD",
-    "status": "Report\u00e9e"
-  },
-  {
     "date": "20/08/2024",
     "lat": 43.202831,
     "lng": 2.710159,
@@ -760,19 +752,11 @@
     "status": "\u00c0 venir"
   },
   {
-    "date": "18/09/2024",
-    "lat": 43.702782,
-    "lng": 5.121908,
-    "name": "Parc Photovolta\u00efque de Carri\u00e8re des Plaines",
-    "ps": "PS MALLEMORT ",
-    "status": "\u00c0 venir"
-  },
-  {
-    "date": "19/09/2024",
-    "lat": 43.283662,
-    "lng": 5.501069,
-    "name": "Usine Arkema Marseille",
-    "ps": "PS ENCO DE BOTTE",
+    "date": "21/08/2024",
+    "lat": 43.90016,
+    "lng": 4.86628,
+    "name": "Parc Photovolta\u00efque les Iscles",
+    "ps": "PS CHATEAURENARD",
     "status": "\u00c0 venir"
   },
   {
@@ -813,6 +797,22 @@
     "lng": 2.387568,
     "name": "Veolia Sarcelles",
     "ps": "PS VILLIERS-LE-BEL",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "18/09/2024",
+    "lat": 43.702782,
+    "lng": 5.121908,
+    "name": "Parc Photovolta\u00efque de Carri\u00e8re des Plaines",
+    "ps": "PS MALLEMORT ",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "19/09/2024",
+    "lat": 43.283662,
+    "lng": 5.501069,
+    "name": "Usine Arkema Marseille",
+    "ps": "PS ENCO DE BOTTE",
     "status": "\u00c0 venir"
   },
   {
