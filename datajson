@@ -520,14 +520,6 @@
     "status": "R\u00e9alis\u00e9e"
   },
   {
-    "date": "14/05/2024",
-    "lat": 47.351057,
-    "lng": 0.674709,
-    "name": "Cog\u00e9n\u00e9ration Les Moriers",
-    "ps": "PS JOUE-LES-TOURS",
-    "status": "Report\u00e9e"
-  },
-  {
     "date": "16/05/2024",
     "lat": 50.6755556,
     "lng": 2.1783333,
@@ -656,14 +648,6 @@
     "status": "R\u00e9alis\u00e9e"
   },
   {
-    "date": "03/07/2024",
-    "lat": 47.693942,
-    "lng": 0.372232,
-    "name": "Parc Eolien de Lavernat",
-    "ps": "PS CHATEAU-DU-LOIR",
-    "status": "Report\u00e9e"
-  },
-  {
     "date": "04/07/2024",
     "lat": 46.448882,
     "lng": -0.728767,
@@ -677,7 +661,7 @@
     "lng": -1.177064,
     "name": "Parc Photovolta\u00efque Isigny le Buat",
     "ps": "PS LAIRON",
-    "status": "R\u00e9aliks\u00e9e"
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "09/07/2024",
@@ -686,6 +670,14 @@
     "name": "Parc Eolien de Bourbriac",
     "ps": "PS GUINGAMP",
     "status": "R\u00e9alis\u00e9e"
+  },
+  {
+    "date": "10/07/2024",
+    "lat": 48.982729,
+    "lng": 7.17326,
+    "name": "Parc Eolien de Dehlingen",
+    "ps": "PS SARRE UNION",
+    "status": "Report\u00e9e"
   },
   {
     "date": "10/07/2024",
@@ -701,7 +693,7 @@
     "lng": -4.448605,
     "name": "Parc Eolien Plouvien",
     "ps": "PS LANNILIS",
-    "status": "\u00c0 venir"
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "17/07/2024",
@@ -709,7 +701,15 @@
     "lng": -0.829189,
     "name": "Parc Photovolta\u00efque de Maul\u00e9on",
     "ps": "PS CHABOT",
-    "status": "\u00c0 venir"
+    "status": "R\u00e9alis\u00e9e"
+  },
+  {
+    "date": "18/07/2024",
+    "lat": 47.693942,
+    "lng": 0.372232,
+    "name": "Parc Eolien de Lavernat",
+    "ps": "PS CHATEAU-DU-LOIR",
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "18/07/2024",
@@ -717,7 +717,15 @@
     "lng": 4.371806,
     "name": "Parc Photovolta\u00efque Belvesol A",
     "ps": "PS UZES",
-    "status": "\u00c0 venir"
+    "status": "R\u00e9alis\u00e9e"
+  },
+  {
+    "date": "18/07/2024",
+    "lat": 47.085563,
+    "lng": -1.182802,
+    "name": "Parc Photovolta\u00efque Ecarpi\u00e8re",
+    "ps": "PS RECOUVRANCE",
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "18/07/2024",
@@ -729,11 +737,19 @@
   },
   {
     "date": "23/07/2024",
+    "lat": 47.35105695177181,
+    "lng": 0.6747090809437243,
+    "name": "Cog\u00e9n\u00e9ration Les MORIER COGESTAR",
+    "ps": "PS JOUE-LES-TOURS",
+    "status": "R\u00e9alis\u00e9e"
+  },
+  {
+    "date": "23/07/2024",
     "lat": 43.297457,
     "lng": 1.538509,
     "name": "Parc Photovolta\u00efque de Cintegabelle",
     "ps": "PS BOULBONNE",
-    "status": "\u00c0 venir"
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "30/07/2024",
@@ -741,6 +757,14 @@
     "lng": 0.373968,
     "name": "Usine Arkema",
     "ps": "PS LANNEMEZAN",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "01/08/2024",
+    "lat": 43.929929,
+    "lng": 4.833938,
+    "name": "G\u00e9ant Casino CAP SUD",
+    "ps": "PS AVIGNON",
     "status": "\u00c0 venir"
   },
   {
@@ -757,6 +781,38 @@
     "lng": 4.86628,
     "name": "Parc Photovolta\u00efque les Iscles",
     "ps": "PS CHATEAURENARD",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "21/08/2024",
+    "lat": 46.944038,
+    "lng": 1.980481,
+    "name": "Malteries Franco Suisses",
+    "ps": "PS VILLEMENT",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "22/08/2024",
+    "lat": 43.605001,
+    "lng": 6.063172,
+    "name": "Parc Photovolta\u00efque de Tavernes",
+    "ps": "PS BARJOLS",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "27/08/2024",
+    "lat": 48.140903,
+    "lng": 6.099082,
+    "name": "PARC EOLIEN DE SAONE ET MADON ",
+    "ps": "PS DARNEY",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "29/08/2024",
+    "lat": 48.933914,
+    "lng": 5.528863,
+    "name": "Parc Photovolta\u00efque Maizey",
+    "ps": "PS ST-MIHIEL",
     "status": "\u00c0 venir"
   },
   {
@@ -792,11 +848,35 @@
     "status": "\u00c0 venir"
   },
   {
+    "date": "10/09/2024",
+    "lat": 43.772933,
+    "lng": 1.957447,
+    "name": "Parc Photovolta\u00efque de Graulhet",
+    "ps": "PS GRAULHET",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "11/09/2024",
+    "lat": 44.45611,
+    "lng": 4.84944,
+    "name": "Parc Photovolta\u00efque de R\u00e9auville",
+    "ps": "PS MONTJOYER",
+    "status": "\u00c0 venir"
+  },
+  {
     "date": "12/09/2024",
     "lat": 48.998797,
     "lng": 2.387568,
     "name": "Veolia Sarcelles",
     "ps": "PS VILLIERS-LE-BEL",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "17/09/2024",
+    "lat": 43.69928,
+    "lng": 3.35223,
+    "name": "Parc Photovolta\u00efque Le Bosc et Soumont",
+    "ps": "PS LODEVE",
     "status": "\u00c0 venir"
   },
   {
@@ -821,6 +901,22 @@
     "lng": -1.670983815852784,
     "name": "Biomasse de Rennes",
     "ps": "PS NOYAL",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "03/10/2024",
+    "lat": 47.947889,
+    "lng": -3.864389,
+    "name": "Parc Eolien de Melgven",
+    "ps": "PS MELGVEN",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "09/10/2024",
+    "lat": 47.478798,
+    "lng": -1.41524,
+    "name": "Parc Eolien des Touches",
+    "ps": "PS NORT-SUR-ERDRE",
     "status": "\u00c0 venir"
   }
 ]
