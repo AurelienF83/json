@@ -745,6 +745,14 @@
   },
   {
     "date": "23/07/2024",
+    "lat": 47.374629,
+    "lng": 0.70677,
+    "name": "SCBC Soci\u00e9t\u00e9 de chauffage des Bords de Cher",
+    "ps": "PS TOURS",
+    "status": "R\u00e9alis\u00e9e"
+  },
+  {
+    "date": "23/07/2024",
     "lat": 43.297457,
     "lng": 1.538509,
     "name": "Parc Photovolta\u00efque de Cintegabelle",
@@ -757,7 +765,7 @@
     "lng": 0.373968,
     "name": "Usine Arkema",
     "ps": "PS LANNEMEZAN",
-    "status": "\u00c0 venir"
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "01/08/2024",
@@ -765,7 +773,7 @@
     "lng": 4.833938,
     "name": "G\u00e9ant Casino CAP SUD",
     "ps": "PS AVIGNON",
-    "status": "\u00c0 venir"
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "20/08/2024",
@@ -773,7 +781,7 @@
     "lng": 2.710159,
     "name": "Parc Eolien Conilhac-Corbi\u00e8res",
     "ps": "PS LEZIGNAN",
-    "status": "\u00c0 venir"
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "21/08/2024",
@@ -781,7 +789,7 @@
     "lng": 4.86628,
     "name": "Parc Photovolta\u00efque les Iscles",
     "ps": "PS CHATEAURENARD",
-    "status": "\u00c0 venir"
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "21/08/2024",
@@ -789,7 +797,15 @@
     "lng": 1.980481,
     "name": "Malteries Franco Suisses",
     "ps": "PS VILLEMENT",
-    "status": "\u00c0 venir"
+    "status": "R\u00e9alis\u00e9e"
+  },
+  {
+    "date": "22/08/2024",
+    "lat": 47.936215282970174,
+    "lng": 0.1672549612929737,
+    "name": "LTR Industries",
+    "ps": "PS ARNAGE",
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "22/08/2024",
@@ -797,7 +813,7 @@
     "lng": 6.063172,
     "name": "Parc Photovolta\u00efque de Tavernes",
     "ps": "PS BARJOLS",
-    "status": "\u00c0 venir"
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "27/08/2024",
@@ -805,6 +821,14 @@
     "lng": 6.099082,
     "name": "PARC EOLIEN DE SAONE ET MADON ",
     "ps": "PS DARNEY",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "29/08/2024",
+    "lat": 45.173857,
+    "lng": 5.750805,
+    "name": "Usine Compagnie de Chauffage",
+    "ps": "PS ILE-VERTE",
     "status": "\u00c0 venir"
   },
   {
@@ -848,6 +872,22 @@
     "status": "\u00c0 venir"
   },
   {
+    "date": "05/09/2024",
+    "lat": 48.376721,
+    "lng": -0.345024,
+    "name": "Parc Eolien du Ham",
+    "ps": "PS VILLAINES-LA-JUHEL",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "10/09/2024",
+    "lat": 49.036226,
+    "lng": 5.314377,
+    "name": "Parc Eolien Souilly La Gargasse",
+    "ps": "PS DUGNY",
+    "status": "\u00c0 venir"
+  },
+  {
     "date": "10/09/2024",
     "lat": 43.772933,
     "lng": 1.957447,
@@ -861,6 +901,14 @@
     "lng": 4.84944,
     "name": "Parc Photovolta\u00efque de R\u00e9auville",
     "ps": "PS MONTJOYER",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "11/09/2024",
+    "lat": 47.629806,
+    "lng": -2.230806,
+    "name": "Parc Eolien de B\u00e9ganne",
+    "ps": "PS ALLAIRE",
     "status": "\u00c0 venir"
   },
   {
@@ -896,11 +944,35 @@
     "status": "\u00c0 venir"
   },
   {
+    "date": "24/09/2024",
+    "lat": 46.990174,
+    "lng": -1.690342,
+    "name": "Parc Eolien de la Marne",
+    "ps": "PS GRAND LIEU",
+    "status": "\u00c0 venir"
+  },
+  {
     "date": "25/09/2024",
     "lat": 48.0796443994309,
     "lng": -1.670983815852784,
     "name": "Biomasse de Rennes",
     "ps": "PS NOYAL",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "26/09/2024",
+    "lat": 47.873864,
+    "lng": -1.328589,
+    "name": "Parc Eolien de Retiers",
+    "ps": "PS",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "01/10/2024",
+    "lat": 47.177157,
+    "lng": -1.379091,
+    "name": "SCEA des Cl\u00e9ons",
+    "ps": "PS",
     "status": "\u00c0 venir"
   },
   {
@@ -912,10 +984,26 @@
     "status": "\u00c0 venir"
   },
   {
+    "date": "03/10/2024",
+    "lat": 43.59196185855952,
+    "lng": 1.2943923240347712,
+    "name": "LCM Plaisance du Touch",
+    "ps": "PS",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "10/10/2024",
+    "lat": 48.335691,
+    "lng": 6.660422,
+    "name": "Egger Panneaux & D\u00e9cors",
+    "ps": "PS",
+    "status": "\u00c0 venir"
+  },
+  {
     "date": "09/10/2024",
     "lat": 47.478798,
     "lng": -1.41524,
-    "name": "Parc Eolien des Touches",
+    "name": "Parc \u00e9olien de Jou\u00e9 sur Erdre ",
     "ps": "PS NORT-SUR-ERDRE",
     "status": "\u00c0 venir"
   }
