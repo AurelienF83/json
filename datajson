@@ -1048,11 +1048,75 @@
     "status": "\u00c0 venir"
   },
   {
+    "date": "05/11/2024",
+    "lat": 48.94542,
+    "lng": 2.027478,
+    "name": "HELYSEO - USINE AZALYS",
+    "ps": "PS",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "06/11/2024",
+    "lat": 47.05196,
+    "lng": 2.371064,
+    "name": "A\u00e9roport De Bourges",
+    "ps": "PS",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "07/11/2024",
+    "lat": 48.260939,
+    "lng": -2.510773,
+    "name": "Parc Eolien des Landes du Men\u00e9",
+    "ps": "PS",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "07/11/2024",
+    "lat": 48.186696,
+    "lng": 2.238236,
+    "name": "CVE de Pithiviers",
+    "ps": "PS",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "13/11/2024",
+    "lat": 46.607918,
+    "lng": -1.205408,
+    "name": "Parc Photovolta\u00efque La Piballe",
+    "ps": "PS",
+    "status": "\u00c0 venir"
+  },
+  {
     "date": "14/11/2024",
     "lat": 47.878294,
     "lng": -3.545151,
     "name": "Cog\u00e9star 3 ",
     "ps": "PS QUIMPERLE",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "20/11/2024",
+    "lat": 48.589432,
+    "lng": 2.392801,
+    "name": "Ecosite Vert le Grand",
+    "ps": "PS",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "21/11/2024",
+    "lat": 47.290354,
+    "lng": 1.731259,
+    "name": "Parc Photovolta\u00efque Villefranche sur Cher",
+    "ps": "PS",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "04/12/2024",
+    "lat": 44.171747,
+    "lng": 0.665976,
+    "name": "Parc Photovolta\u00efque de Boe",
+    "ps": "PS",
     "status": "\u00c0 venir"
   }
 ]
