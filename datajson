@@ -48,6 +48,14 @@
     "status": "R\u00e9alis\u00e9e"
   },
   {
+    "date": "09/01/2024",
+    "lat": 43.2954167,
+    "lng": 2.792833,
+    "name": "Parc Eolien d'Oupia",
+    "ps": "PS",
+    "status": "R\u00e9alis\u00e9e"
+  },
+  {
     "date": "10/01/2024",
     "lat": 47.717232,
     "lng": -2.471029,
@@ -161,6 +169,14 @@
   },
   {
     "date": "06/02/2024",
+    "lat": 47.2077578,
+    "lng": -0.5565695,
+    "name": "Parc Eolien CNR Valanjou",
+    "ps": "PS AUBIGNE",
+    "status": "R\u00e9alis\u00e9e"
+  },
+  {
+    "date": "06/02/2024",
     "lat": 44.936827,
     "lng": 2.474691,
     "name": "Parc Photovolta\u00efque Le Croizet",
@@ -173,6 +189,14 @@
     "lng": -1.27997,
     "name": "Centrale Stockage Batterie Azur",
     "ps": "PS SOUSTONS",
+    "status": "R\u00e9alis\u00e9e"
+  },
+  {
+    "date": "07/02/2024",
+    "lat": 47.189556,
+    "lng": -2.088389,
+    "name": "Parc Eolien Saint Michel Chef",
+    "ps": "PS de St-P\u00e8re-en-Retz ",
     "status": "R\u00e9alis\u00e9e"
   },
   {
@@ -345,6 +369,14 @@
   },
   {
     "date": "14/03/2024",
+    "lat": 48.385305,
+    "lng": -0.277064,
+    "name": "Parc Eolien de Crennes-sur-Fraub\u00e9e",
+    "ps": "PS VILLAINES-LA-JUHEL",
+    "status": "R\u00e9alis\u00e9e"
+  },
+  {
+    "date": "14/03/2024",
     "lat": 42.666075,
     "lng": 2.785528,
     "name": "Parc Photovolta\u00efque Le Soler Ouest",
@@ -501,7 +533,7 @@
     "lng": 1.659807,
     "name": "Parc Eolien Haucourt Friere",
     "ps": "PS",
-    "status": "R\u00e9alis\u00e9e par SEL"
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "07/05/2024",
@@ -574,6 +606,22 @@
     "name": "D\u00e9chetterie Azur",
     "ps": "PS ARGENTEUIL",
     "status": "R\u00e9alis\u00e9e"
+  },
+  {
+    "date": "12/06/2024",
+    "lat": 48.43065,
+    "lng": -0.235481,
+    "name": "Parc Eolien Saint-Cyr-en-Pail",
+    "ps": "PS PRE EN PAIL",
+    "status": "R\u00e9alis\u00e9e"
+  },
+  {
+    "date": "13/06/2024",
+    "lat": 48.357555,
+    "lng": -0.618835,
+    "name": "Parc Eolien La Haie-Traversaine",
+    "ps": "PS MAYENNE",
+    "status": "Report\u00e9e"
   },
   {
     "date": "18/06/2024",
@@ -929,6 +977,14 @@
   },
   {
     "date": "01/10/2024",
+    "lat": 43.75605,
+    "lng": 6.03072,
+    "name": "Parc Photovolta\u00efque d'Esparon",
+    "ps": "PS ROUMOULES",
+    "status": "R\u00e9alis\u00e9e"
+  },
+  {
+    "date": "01/10/2024",
     "lat": 47.177157,
     "lng": -1.379091,
     "name": "SCEA des Cl\u00e9ons",
@@ -989,6 +1045,14 @@
     "lng": -2.309944,
     "name": "Parc Eolien de Mauron",
     "ps": "PS GAEL",
+    "status": "R\u00e9alis\u00e9e"
+  },
+  {
+    "date": "16/10/2024",
+    "lat": 47.197179,
+    "lng": -1.641354,
+    "name": "Parc Solaire Cambon",
+    "ps": "PS PONTCHATEAU",
     "status": "R\u00e9alis\u00e9e"
   },
   {
