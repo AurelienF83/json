@@ -321,14 +321,6 @@
   },
   {
     "date": "07/03/2024",
-    "lat": 48.541167,
-    "lng": 2.689127,
-    "name": "Gestion des d\u00e9chets SMITOM",
-    "ps": "PS PLISON",
-    "status": "Report\u00e9e"
-  },
-  {
-    "date": "07/03/2024",
     "lat": 48.51161,
     "lng": -3.279367,
     "name": "Parc Eolien Gurunhuel",
@@ -665,14 +657,6 @@
   },
   {
     "date": "10/07/2024",
-    "lat": 48.982729,
-    "lng": 7.17326,
-    "name": "Parc Eolien de Dehlingen",
-    "ps": "PS SARRE UNION",
-    "status": "Report\u00e9e"
-  },
-  {
-    "date": "10/07/2024",
     "lat": 48.526506,
     "lng": -2.506423,
     "name": "Parc Eolien de Saint Alban",
@@ -848,14 +832,6 @@
     "status": "R\u00e9alis\u00e9e"
   },
   {
-    "date": "03/09/2024",
-    "lat": 43.74267,
-    "lng": 4.4243,
-    "name": "Parc Photovolta\u00efque MITRA",
-    "ps": "PS PICHEGU",
-    "status": "Report\u00e9e"
-  },
-  {
     "date": "04/09/2024",
     "lat": 43.297874,
     "lng": 2.896221,
@@ -976,14 +952,6 @@
     "status": "R\u00e9alis\u00e9e"
   },
   {
-    "date": "03/10/2024",
-    "lat": 43.59196185855952,
-    "lng": 1.2943923240347712,
-    "name": "LCM Plaisance du Touch",
-    "ps": "PS LEGUEVIN",
-    "status": "Report\u00e9e"
-  },
-  {
     "date": "08/10/2024",
     "lat": 47.392601,
     "lng": 0.728226,
@@ -1013,7 +981,7 @@
     "lng": 2.274481,
     "name": "Cog\u00e9n\u00e9ration NorEnergy",
     "ps": "PS ST-OMER",
-    "status": "Report\u00e9e"
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "15/10/2024",
@@ -1021,7 +989,7 @@
     "lng": -2.309944,
     "name": "Parc Eolien de Mauron",
     "ps": "PS GAEL",
-    "status": "\u00c0 venir"
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "29/10/2024",
@@ -1029,7 +997,15 @@
     "lng": 4.84944,
     "name": "Parc Photovolta\u00efque de R\u00e9auville",
     "ps": "PS MONTJOYER",
-    "status": "\u00c0 venir"
+    "status": "R\u00e9alis\u00e9e"
+  },
+  {
+    "date": "29/10/2024",
+    "lat": 47.878294,
+    "lng": -3.545151,
+    "name": "Cog\u00e9star 3 ",
+    "ps": "PS QUIMPERLE",
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "30/10/2024",
@@ -1052,14 +1028,30 @@
     "lat": 48.94542,
     "lng": 2.027478,
     "name": "HELYSEO - USINE AZALYS",
+    "ps": "PS NOUROTTES",
+    "status": "R\u00e9alis\u00e9e"
+  },
+  {
+    "date": "05/11/2024",
+    "lat": 48.677107,
+    "lng": 5.853816,
+    "name": "Parc Solaire de l\u2019Espace du G\u00e9nie",
     "ps": "PS",
-    "status": "\u00c0 venir"
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "06/11/2024",
     "lat": 47.05196,
     "lng": 2.371064,
     "name": "A\u00e9roport De Bourges",
+    "ps": "PS MAZIERES",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "06/11/2024",
+    "lat": 49.871121,
+    "lng": 2.301096,
+    "name": "Cog\u00e9n\u00e9ration CTM",
     "ps": "PS",
     "status": "\u00c0 venir"
   },
@@ -1068,7 +1060,7 @@
     "lat": 48.260939,
     "lng": -2.510773,
     "name": "Parc Eolien des Landes du Men\u00e9",
-    "ps": "PS",
+    "ps": "PS LE GOURAY",
     "status": "\u00c0 venir"
   },
   {
@@ -1076,7 +1068,7 @@
     "lat": 48.186696,
     "lng": 2.238236,
     "name": "CVE de Pithiviers",
-    "ps": "PS",
+    "ps": "PS PITHIVIERS",
     "status": "\u00c0 venir"
   },
   {
@@ -1084,15 +1076,23 @@
     "lat": 46.607918,
     "lng": -1.205408,
     "name": "Parc Photovolta\u00efque La Piballe",
-    "ps": "PS",
+    "ps": "PS BEAUPUY",
     "status": "\u00c0 venir"
   },
   {
     "date": "14/11/2024",
-    "lat": 47.878294,
-    "lng": -3.545151,
-    "name": "Cog\u00e9star 3 ",
-    "ps": "PS QUIMPERLE",
+    "lat": 44.301693,
+    "lng": 0.075087,
+    "name": "Parc Photovolta\u00efque Casteljaloux 1",
+    "ps": "PS CASTELJALOUX",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "19/11/2024",
+    "lat": 48.541167,
+    "lng": 2.689127,
+    "name": "Gestion des d\u00e9chets SMITOM",
+    "ps": "PS PLISON",
     "status": "\u00c0 venir"
   },
   {
@@ -1100,6 +1100,14 @@
     "lat": 48.589432,
     "lng": 2.392801,
     "name": "Ecosite Vert le Grand",
+    "ps": "PS LIERS",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "21/11/2024",
+    "lat": 47.947063,
+    "lng": -2.635948,
+    "name": "Parc Eolien de Gu\u00e9gon",
     "ps": "PS",
     "status": "\u00c0 venir"
   },
@@ -1108,7 +1116,15 @@
     "lat": 47.290354,
     "lng": 1.731259,
     "name": "Parc Photovolta\u00efque Villefranche sur Cher",
-    "ps": "PS",
+    "ps": "PS ROMORANTIN",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "28/11/2024",
+    "lat": 43.457096,
+    "lng": 5.501318,
+    "name": "Parc Photovolta\u00efque Terril des Sauvaires Gardanne",
+    "ps": "PS GARDANNE",
     "status": "\u00c0 venir"
   },
   {
@@ -1116,7 +1132,71 @@
     "lat": 44.171747,
     "lng": 0.665976,
     "name": "Parc Photovolta\u00efque de Boe",
+    "ps": "PS BOE",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "05/12/2024",
+    "lat": 43.635143,
+    "lng": 5.492142,
+    "name": "Parc Photovolta\u00efque de Meyrargues",
+    "ps": "PS MEYRARGUES",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "12/12/2024",
+    "lat": 47.271395,
+    "lng": 0.243006,
+    "name": "Parc Photovolta\u00efque de Restign\u00e9",
     "ps": "PS",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "17/12/2024",
+    "lat": 43.68422,
+    "lng": 3.1709,
+    "name": "Parc Photovolta\u00efque du Bousquet d'Orb",
+    "ps": "PS",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "18/12/2024",
+    "lat": 48.982729,
+    "lng": 7.17326,
+    "name": "Parc Eolien de Dehlingen",
+    "ps": "PS SARRE UNION",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "07/01/2025",
+    "lat": 43.761936,
+    "lng": 4.237522,
+    "name": "Parc Photovolta\u00efque de Boissieres",
+    "ps": "PS",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "15/01/2025",
+    "lat": 43.59196185855952,
+    "lng": 1.2943923240347712,
+    "name": "LCM Plaisance du Touch",
+    "ps": "PS LEGUEVIN",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "16/01/2025",
+    "lat": 43.565916,
+    "lng": 1.468944,
+    "name": "Cog\u00e9n\u00e9ration Toulouse-Rangueil",
+    "ps": "PS LESPINET",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "21/01/2025",
+    "lat": 43.74267,
+    "lng": 4.4243,
+    "name": "Parc Photovolta\u00efque MITRA",
+    "ps": "PS PICHEGU",
     "status": "\u00c0 venir"
   }
 ]
