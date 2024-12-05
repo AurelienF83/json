@@ -752,12 +752,12 @@
     "status": "R\u00e9alis\u00e9e"
   },
   {
-    "date": "18/07/2024",
+    "date": "04/12/2024",
     "lat": 46.556397,
     "lng": 0.382376,
     "name": "CHU Poitiers",
     "ps": "PS POITIERS",
-    "status": "Report\u00e9e"
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "23/07/2024",
@@ -961,14 +961,6 @@
   },
   {
     "date": "26/09/2024",
-    "lat": 49.036226,
-    "lng": 5.314377,
-    "name": "Parc Eolien Souilly La Gargasse",
-    "ps": "PS DUGNY",
-    "status": "Report\u00e9e"
-  },
-  {
-    "date": "26/09/2024",
     "lat": 47.873864,
     "lng": -1.328589,
     "name": "Parc Eolien de Retiers",
@@ -1077,7 +1069,7 @@
     "lng": 4.406443,
     "name": "Comax Saint Etienne",
     "ps": "PS RIVIERE (LA)",
-    "status": "\u00c0 venir"
+    "status": "Report\u00e9e"
   },
   {
     "date": "05/11/2024",
@@ -1085,7 +1077,7 @@
     "lng": 4.709698,
     "name": "Barrage de Rochemaure",
     "ps": "PS MONTELIMAR",
-    "status": "\u00c0 venir"
+    "status": "Report\u00e9e"
   },
   {
     "date": "05/11/2024",
@@ -1100,7 +1092,7 @@
     "lat": 48.677107,
     "lng": 5.853816,
     "name": "Parc Solaire de l\u2019Espace du G\u00e9nie",
-    "ps": "PS",
+    "ps": "PS CHOLOY",
     "status": "R\u00e9alis\u00e9e"
   },
   {
@@ -1109,15 +1101,15 @@
     "lng": 2.371064,
     "name": "A\u00e9roport De Bourges",
     "ps": "PS MAZIERES",
-    "status": "\u00c0 venir"
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "06/11/2024",
     "lat": 49.871121,
     "lng": 2.301096,
     "name": "Cog\u00e9n\u00e9ration CTM",
-    "ps": "PS",
-    "status": "\u00c0 venir"
+    "ps": "PS QUENTOIS",
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "07/11/2024",
@@ -1125,7 +1117,7 @@
     "lng": -2.510773,
     "name": "Parc Eolien des Landes du Men\u00e9",
     "ps": "PS LE GOURAY",
-    "status": "\u00c0 venir"
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "07/11/2024",
@@ -1133,7 +1125,7 @@
     "lng": 2.238236,
     "name": "CVE de Pithiviers",
     "ps": "PS PITHIVIERS",
-    "status": "\u00c0 venir"
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "13/11/2024",
@@ -1141,7 +1133,7 @@
     "lng": -1.205408,
     "name": "Parc Photovolta\u00efque La Piballe",
     "ps": "PS BEAUPUY",
-    "status": "\u00c0 venir"
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "14/11/2024",
@@ -1149,7 +1141,15 @@
     "lng": 0.075087,
     "name": "Parc Photovolta\u00efque Casteljaloux 1",
     "ps": "PS CASTELJALOUX",
-    "status": "\u00c0 venir"
+    "status": "R\u00e9alis\u00e9e"
+  },
+  {
+    "date": "18/11/2024",
+    "lat": 48.657774,
+    "lng": 2.3743,
+    "name": "Chaufferie SOCCRAM",
+    "ps": "PS GRIGNY",
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "19/11/2024",
@@ -1157,7 +1157,7 @@
     "lng": 2.689127,
     "name": "Gestion des d\u00e9chets SMITOM",
     "ps": "PS PLISON",
-    "status": "\u00c0 venir"
+    "status": "Report\u00e9e"
   },
   {
     "date": "20/11/2024",
@@ -1165,15 +1165,15 @@
     "lng": 2.392801,
     "name": "Ecosite Vert le Grand",
     "ps": "PS LIERS",
-    "status": "\u00c0 venir"
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "21/11/2024",
     "lat": 47.947063,
     "lng": -2.635948,
     "name": "Parc Eolien de Gu\u00e9gon",
-    "ps": "PS",
-    "status": "\u00c0 venir"
+    "ps": "PS JOSSELIN",
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "21/11/2024",
@@ -1181,7 +1181,7 @@
     "lng": 1.731259,
     "name": "Parc Photovolta\u00efque Villefranche sur Cher",
     "ps": "PS ROMORANTIN",
-    "status": "\u00c0 venir"
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "28/11/2024",
@@ -1189,7 +1189,7 @@
     "lng": 5.501318,
     "name": "Parc Photovolta\u00efque Terril des Sauvaires Gardanne",
     "ps": "PS GARDANNE",
-    "status": "\u00c0 venir"
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "04/12/2024",
@@ -1197,7 +1197,15 @@
     "lng": 0.665976,
     "name": "Parc Photovolta\u00efque de Boe",
     "ps": "PS BOE",
-    "status": "\u00c0 venir"
+    "status": "R\u00e9alis\u00e9e"
+  },
+  {
+    "date": "05/12/2024",
+    "lat": 48.066285,
+    "lng": -4.583461,
+    "name": "Parc Eolien de Goulien",
+    "ps": "PS",
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "05/12/2024",
@@ -1205,7 +1213,7 @@
     "lng": 5.492142,
     "name": "Parc Photovolta\u00efque de Meyrargues",
     "ps": "PS MEYRARGUES",
-    "status": "\u00c0 venir"
+    "status": "R\u00e9alis\u00e9e"
   },
   {
     "date": "12/12/2024",
@@ -1217,18 +1225,18 @@
   },
   {
     "date": "17/12/2024",
-    "lat": 43.68422,
-    "lng": 3.1709,
-    "name": "Parc Photovolta\u00efque du Bousquet d'Orb",
-    "ps": "PS",
+    "lat": 48.8282,
+    "lng": -0.71307,
+    "name": "Parc Eolien de Rully",
+    "ps": "PS VIRE",
     "status": "\u00c0 venir"
   },
   {
-    "date": "18/12/2024",
-    "lat": 48.982729,
-    "lng": 7.17326,
-    "name": "Parc Eolien de Dehlingen",
-    "ps": "PS SARRE UNION",
+    "date": "17/12/2024",
+    "lat": 43.68422,
+    "lng": 3.1709,
+    "name": "Parc Photovolta\u00efque du Bousquet d'Orb",
+    "ps": "PS RUFFE",
     "status": "\u00c0 venir"
   },
   {
@@ -1236,6 +1244,30 @@
     "lat": 43.761936,
     "lng": 4.237522,
     "name": "Parc Photovolta\u00efque de Boissieres",
+    "ps": "PS VESTRIC",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "09/01/2025",
+    "lat": 48.982729,
+    "lng": 7.17326,
+    "name": "Parc Eolien de Dehlingen",
+    "ps": "PS SARRE UNION",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "14/01/2025",
+    "lat": 44.388634,
+    "lng": 0.327555,
+    "name": "Parc Photovolta\u00efque Tonneins",
+    "ps": "PS UNET",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "15/01/2025",
+    "lat": 44.663942,
+    "lng": -0.722009,
+    "name": "Parc Photovolta\u00efque de Vasseau01",
     "ps": "PS",
     "status": "\u00c0 venir"
   },
@@ -1248,6 +1280,14 @@
     "status": "\u00c0 venir"
   },
   {
+    "date": "15/01/2025",
+    "lat": 47.238212,
+    "lng": -0.078596,
+    "name": "Parc Photovolta\u00efque Saumur Chemin Vert",
+    "ps": "PS SAUMUR",
+    "status": "\u00c0 venir"
+  },
+  {
     "date": "16/01/2025",
     "lat": 43.565916,
     "lng": 1.468944,
@@ -1257,10 +1297,42 @@
   },
   {
     "date": "21/01/2025",
+    "lat": 49.036226,
+    "lng": 5.314377,
+    "name": "Parc Eolien Souilly La Gargasse",
+    "ps": "PS DUGNY",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "21/01/2025",
     "lat": 43.74267,
     "lng": 4.4243,
     "name": "Parc Photovolta\u00efque MITRA",
     "ps": "PS PICHEGU",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "29/01/2025",
+    "lat": 43.602292,
+    "lng": 3.198623,
+    "name": "Parc Photovolta\u00efque des Terres Rouges 1",
+    "ps": "PS BEDARIEUX",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "29/01/2025",
+    "lat": 43.602292,
+    "lng": 3.198623,
+    "name": "Parc Photovolta\u00efque des Terres Rouges 2",
+    "ps": "PS BEDARIEUX",
+    "status": "\u00c0 venir"
+  },
+  {
+    "date": "30/01/2025",
+    "lat": 45.9067,
+    "lng": -0.981452,
+    "name": "D\u00e9chetterie Soval Nord",
+    "ps": "PS TONNAY-CHARENTE",
     "status": "\u00c0 venir"
   }
 ]
